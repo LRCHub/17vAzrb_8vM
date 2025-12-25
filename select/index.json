@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Rudolph the Red-Nosed Reindeer (Official Animated Video)",
+  "base_artist": "Gene Autry",
+  "createdAt": "2025-12-25T11:53:06.580565Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Temptations",
+      "has_synced": true,
+      "path": "select/01_Rudolph_The_Red-Nosed_Reindeer_Temptations.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Crystals",
+      "has_synced": true,
+      "path": "select/02_Rudolph_The_Red-Nosed_Reindeer_Crystals.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "artist": "Christmas",
+      "has_synced": true,
+      "path": "select/03_Rudolph_the_Red-Nosed_Reindeer_Christmas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rudolph The Red Nosed Reindeer",
+      "artist": "ＪＥＷＥＬ",
+      "has_synced": true,
+      "path": "select/04_Rudolph_The_Red_Nosed_Reindeer_JEWEL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rudolph The Red Nosed Reindeer",
+      "artist": "Christmas",
+      "has_synced": true,
+      "path": "select/05_Rudolph_The_Red_Nosed_Reindeer_Christmas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Bing Crosby",
+      "has_synced": true,
+      "path": "select/06_Rudolph_The_Red-Nosed_Reindeer_Bing_Crosby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rudolph The Red Nosed Reindeer",
+      "artist": "Melodeers, The",
+      "has_synced": false,
+      "path": "select/07_Rudolph_The_Red_Nosed_Reindeer_Melodeers,_The.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "artist": "Chris Isaak",
+      "has_synced": false,
+      "path": "select/08_Rudolph_the_Red-Nosed_Reindeer_Chris_Isaak.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/09_Rudolph_The_Red-Nosed_Reindeer_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Rugrats",
+      "has_synced": false,
+      "path": "select/10_Rudolph_The_Red-Nosed_Reindeer_Rugrats.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "artist": "Helen Reddy",
+      "has_synced": false,
+      "path": "select/11_Rudolph_the_Red-Nosed_Reindeer_Helen_Reddy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "artist": "Raffi",
+      "has_synced": false,
+      "path": "select/12_Rudolph_the_Red-Nosed_Reindeer_Raffi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Helene Fischer",
+      "has_synced": true,
+      "path": "select/13_Rudolph_The_Red-Nosed_Reindeer_Helene_Fischer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "artist": "Gene Autry",
+      "has_synced": true,
+      "path": "select/14_Rudolph_the_Red-Nosed_Reindeer_Gene_Autry.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Burl Ives",
+      "has_synced": true,
+      "path": "select/15_Rudolph_The_Red-Nosed_Reindeer_Burl_Ives.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rudolph The Red-Nosed Reindeer",
+      "artist": "Gene Autry",
+      "has_synced": true,
+      "path": "select/16_Rudolph_The_Red-Nosed_Reindeer_Gene_Autry.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rudolph, The Red Nosed Reindeer",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/17_Rudolph,_The_Red_Nosed_Reindeer_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rudolph The Red‐Nosed Reindeer",
+      "artist": "The Crystals",
+      "has_synced": true,
+      "path": "select/18_Rudolph_The_Red‐Nosed_Reindeer_The_Crystals.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "artist": "Gene Autry",
+      "has_synced": false,
+      "path": "select/pl_01_Rudolph_the_Red-Nosed_Reindeer_Gene_Autry.txt"
+    }
+  ]
+}
