@@ -1,0 +1,48 @@
+# Gene Autry – Rudolph the Red-Nosed Reindeer (Official Animated Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.19] You know Dasher, and Dancer, and Prancer, and Vixen
+[00:09.27] Comet and Cupid, and Donner and Blitzen
+[00:13.08] But do you recall
+[00:15.58] The most famous reindeer of all?
+[00:31.58] 
+[00:21.40] Rudolph the Red-Nosed Reindeer
+[00:24.83] Had a very shiny nose
+[00:28.17] And if you ever saw it
+[00:31.46] You would even say it glows
+[00:35.06] And all of the other reindeer
+[00:38.51] Used to laugh and call him names
+[00:41.94] They never let poor Rudolph
+[00:45.22] Join in any reindeer games
+[00:58.22] 
+[00:48.67] Then one foggy Christmas Eve
+[00:52.01] Santa came to say
+[00:55.65] "Rudolph with your nose so bright
+[00:59.08] Won't you guide my sleigh tonight?"
+[01:16.58] 
+[01:02.33] Then all the reindeer loved him
+[01:05.89] And they shouted out with glee
+[01:09.45] "Rudolph the Red-Nosed Reindeer
+[01:12.76] You'll go down in history"
+[01:25.76] 
+[02:11.01] Rudolph the Red-Nosed Reindeer
+[02:14.38] Had a very shiny nose
+[02:17.97] And if you ever saw it
+[02:21.50] You would even say it glows
+[02:24.72] And all of the other reindeer
+[02:28.20] Used to laugh and call him names
+[02:31.42] They never let poor Rudolph
+[02:34.99] Join in any reindeer games
+[02:47.99] 
+[02:38.36] Then one foggy Christmas Eve
+[02:41.62] Santa came to say
+[02:45.33] "Rudolph with your nose so bright
+[02:48.85] Won't you guide my sleigh tonight?"
+[03:06.35] 
+[02:52.10] Then all the reindeer loved him
+[02:55.61] As they shouted out with glee
+[02:59.04] "Rudolph the Red-Nosed Reindeer
+[03:02.40] You'll go down in history"
+```
